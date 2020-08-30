@@ -13,4 +13,4 @@ Used Libraries:
 Known Bugs:
 <br>
 
-Arduino disconnects from the internet after a certain time roughly 10 15 minutes for some reason I don't know
+Arduino UNO disconnects from the internet after a certain time roughly 10 15 minutes for some reason I don't know
